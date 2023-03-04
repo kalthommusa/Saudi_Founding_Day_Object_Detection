@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG-6756.jpg</filename>
+	<path>C:\Users\toshiba\Desktop\saudi-founding-day\images\test\IMG-6756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>745</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saudi_Founding_Day</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>3</ymin>
+			<xmax>512</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>
