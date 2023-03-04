@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG-6324.jpg</filename>
+	<path>C:\Users\toshiba\Desktop\saudi-founding-day\images\train\IMG-6324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>927</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saudi_Founding_Day</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>39</ymin>
+			<xmax>690</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

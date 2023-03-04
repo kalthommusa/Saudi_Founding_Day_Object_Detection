@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG-6501.jpg</filename>
+	<path>C:\Users\toshiba\Desktop\saudi-founding-day\images\train\IMG-6501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>931</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saudi_Founding_Day</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>240</ymin>
+			<xmax>629</xmax>
+			<ymax>931</ymax>
+		</bndbox>
+	</object>
+</annotation>
