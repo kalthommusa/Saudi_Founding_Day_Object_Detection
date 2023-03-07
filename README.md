@@ -87,6 +87,6 @@ Below are some of the model predictions on images and videos to show the model p
 ![](result_images/prediction-IMG-6801.png)
 ![](result_videos/output1.mov)
 ![](result_videos/output2.avi)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/kalthommusa/Saudi_Founding_Day_Object_Detection/blob/master/result_videos/output1.mov)
+
 
 
