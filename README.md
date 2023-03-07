@@ -64,7 +64,7 @@ I made the following changes to the model pipeline config file:
 
 (Note: I trained the model on 500 images for 2000 steps thus the training process took 8 hours on google colab)
 
-![](readme_images/trainig 2000 steps.png.png)
+![](readme_images/trainig 2000 steps.png)
 
 
 * ## 4- Monitoring Training with TensorBoard
