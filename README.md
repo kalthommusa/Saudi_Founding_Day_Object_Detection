@@ -85,6 +85,10 @@ Below are some of the model predictions on images and videos to show the model p
 ![](result_images/prediction-IMG-6646.png)
 ![](result_images/prediction-IMG-6722.png)
 ![](result_images/prediction-IMG-6801.png)
+
+https://user-images.githubusercontent.com/42275950/223482139-7719a4bf-8a7b-4c39-9cb0-a60e95b5f251.mp4
+
+
 ![](result_videos/output1.mov)
 ![](result_videos/output2.avi)
 
