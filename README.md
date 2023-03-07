@@ -5,6 +5,8 @@ This project aims to develop and train a custom object detection model on novel 
 
 In this project, I have trained the Saudi Founding Day outfits detector on Google Colab utilizing its free GPU resources using Tensorflow object detection API version 2.
 
+I have provided the whole model training steps in detail in this [saudi founding day object detection](https://github.com/kalthommusa/Saudi_Founding_Day_Object_Detection/blob/master/saudi_founding_day_object_detection.ipynb) jupyter notebook, and in this repository,  I give a summary of some of the model training steps.
+
 
 ## Technology and tools used:
 
@@ -89,8 +91,3 @@ Below are some of the model predictions on images and videos to show the model p
 https://user-images.githubusercontent.com/42275950/223482139-7719a4bf-8a7b-4c39-9cb0-a60e95b5f251.mp4
 
 https://user-images.githubusercontent.com/42275950/223483809-2844a0d8-3688-4650-a885-3411043c253f.mp4
-
-
-
-
-
