@@ -64,7 +64,7 @@ I made the following changes to the model pipeline config file:
 
 (Note: I trained the model on 500 images for 2000 steps thus the training process took 8 hours on google colab)
 
-![](readme_images/trainig 2000 steps.png)
+![](readme_images/trainig-2000-steps.png)
 
 
 * ## 4- Monitoring Training with TensorBoard
@@ -72,6 +72,20 @@ I made the following changes to the model pipeline config file:
 ![](readme_images/tensorboard.png)
 ![](readme_images/tensorboard2.png)
 
-* ## 5- Testing the model
+* ## 5- Testing out the custom trained model
+
+Below are some of the model predictions on images and videos to show the model performance:
+
+![](result_images/prediction-IMG-6734.png)
+![](result_images/prediction-IMG-6248.png)
+![](result_images/prediction-IMG-6446.png)
+![](result_images/prediction-IMG-6717.png)
+![](result_images/prediction-IMG-6139.png)
+![](result_images/prediction-IMG-6156.png)
+![](result_images/prediction-IMG-6646.png)
+![](result_images/prediction-IMG-6722.png)
+![](result_images/prediction-IMG-6801.png)
+![](result_videos/output1.mov)
+![](result_videos/output2.avi)
 
 
