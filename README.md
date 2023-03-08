@@ -91,3 +91,9 @@ Below are some of the model predictions on images and videos to show the model p
 https://user-images.githubusercontent.com/42275950/223482139-7719a4bf-8a7b-4c39-9cb0-a60e95b5f251.mp4
 
 https://user-images.githubusercontent.com/42275950/223483809-2844a0d8-3688-4650-a885-3411043c253f.mp4
+
+## Observation
+As we can see, the outcome of the model is very acceptable and gives high accuracy and I am happy with the results.
+
+## Future work
+For a more robust model, I would suggest increasing the size of the dataset and training the model for more than 2000 steps.
