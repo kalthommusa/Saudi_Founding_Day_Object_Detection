@@ -25,7 +25,8 @@ I have provided the whole model training steps in detail in this [saudi founding
 
 * ## 1- Building the dataset (Data preparation)
 
-I collected 500 images that express the outfits for the Saudi Foundation Day, then divided them into 400 images to be fed into the model in the training phase and 100 photos for the testing phase.
+I collected 500 images that express the outfits for the Saudi Foundation Day, then divided them into 400 images to feed into the model for the training phase and 100 images for the testing phase.
+
  
 
 * ## 2- Annotating the dataset 
